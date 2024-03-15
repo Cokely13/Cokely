@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ryan Cokely</h1>
 <h3 align="center">A passionate fullstack engineer</h3>
 
+- 🔭 I’m currently working on [SongOfTheDay](https://github.com/Cokely13/SongOfTheDay)
+
 - 🔭 I’m currently working on [foreverAthleteBooking](https://github.com/Cokely13/foreverAthleteBooking)
 
-- 🔭 I’m currently working on [PlaylistBattle](https://github.com/Cokely13/PlaylistBattle)
 
 - 👨‍💻 All of my projects are available at [https://ryancokely-portfolio.netlify.app/](https://ryancokely-portfolio.netlify.app/)
 
